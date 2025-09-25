@@ -17,6 +17,14 @@ Una herramienta de línea de comandos (CLI) construida en Python para aplicar pr
 - questionary
 - pikepdf
 
+##  Prerrequisitos del Sistema (Linux)
+
+Antes de instalar el proyecto, es necesario instalar las dependencias del sistema. Para distribuciones basadas en Debian/Ubuntu, ejecuta:
+
+```bash
+sudo apt update
+sudo apt install tesseract-ocr tesseract-ocr-spa ghostscript
+
 ##  Instalación
 
 1.  **Clona el repositorio:**
